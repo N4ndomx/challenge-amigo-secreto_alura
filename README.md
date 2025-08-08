@@ -36,6 +36,7 @@ Este proyecto es una práctica de **lógica de programación en JavaScript**, cu
 ##  Cómo usarlo
 
 Solo accede al siguiente enlace para acceder al juego
+https://n4ndomx.github.io/challenge-amigo-secreto_alura/
 
 
 
