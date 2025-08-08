@@ -16,14 +16,19 @@ function sortearAmigo() {
     }
 }
 
+
+function reiniciar_juego(){
+    if (document.getElementById(ID_RESULTADO).innerHTML !== '') {
+        limpiarDatos(ID_RESULTADO)
+    }
+}
 function agregarAmigo() {
-    limpiarDatos(ID_UL_AMIGOS)
-    limpiarDatos(ID_RESULTADO)
+    reiniciar_juego()
     let nombre_amigo = document.getElementById(ID_INPUT).value;
+    limpiarInput(ID_INPUT)
     if (esNombreValido(nombre_amigo)) {
         amigos.push(nombre_amigo);
         mostrarListaAmigos()
-        limpiarInput(ID_INPUT)
     }else{
         alert("Por favor, inserte un nombre");
     }
