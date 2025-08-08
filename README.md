@@ -48,8 +48,11 @@ Solo accede al siguiente enlace para acceder al juego
 
 
 ## 💡 Ejemplo visual
+<div align="center">
+  
+![Grabación 2025-08-08 164008](https://github.com/user-attachments/assets/d5301714-b895-4cfa-bc0d-413843deca0d)
 
-
+</div>
 
 ---
-⌨️ con por @[N4ndomx](https://github.com/N4ndomx) 😊
+⌨️ por @[N4ndomx](https://github.com/N4ndomx) 😊
